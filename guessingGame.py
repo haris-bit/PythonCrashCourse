@@ -1,3 +1,4 @@
+# Corrected Version
 import random 
 
 guess = 0
@@ -15,6 +16,7 @@ while True:
         print("Try a Bigger Number")
 
 
+# Orginal Version (Error)
 # import random 
 
 # guess = 0
